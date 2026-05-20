@@ -1,0 +1,13 @@
+{
+    "files.watcherExclude": {
+        "**/target": true
+    },
+    "java.project.sourcePaths": [
+        "src/main/java",
+        "src/tests/java"
+    ],
+    "java.project.outputPath": "out",
+    "java.project.referencedLibraries": [
+        "libs/junit-platform-console-standalone-1.10.0.jar"
+    ]
+}
